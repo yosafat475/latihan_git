@@ -1,5 +1,7 @@
 # Mengulang GIT
 
+@author 
+
 - .gitignore
 - git init
 - git add
